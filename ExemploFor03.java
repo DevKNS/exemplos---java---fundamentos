@@ -13,7 +13,7 @@ public class ExemploFor03 {
             System.out.print ("Pedido: " );
             String nome = teclado.nextLine();
             
-            System.out.println("QUantidade: ");
+            System.out.println("QUantidade: "); 
             int quantidade = Integer.parseInt (teclado.nextLine());
            
             System.out.println("Preço unitário ");
