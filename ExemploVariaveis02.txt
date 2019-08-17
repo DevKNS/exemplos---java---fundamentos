@@ -1,0 +1,15 @@
+public class ExemploVariaveis02 {
+  
+    public static void main(String [] args){
+	String nome = Pedro;
+	int quantidadedeHoras = 100;
+	double valorHora = 150;
+	double salario = quantidadedeHoras  valorHora;
+	System.out.println (Nome  + nome);
+	System.out.println (Nome  + quantidadedeHora);
+	System.out.println (Nome + valorHora);
+	System.out.println (Salário  + salario);
+	
+       }
+
+  } 
