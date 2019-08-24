@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PrincipalContaPagar",
+            "request": "launch",
+            "mainClass": "PrincipalContaPagar",
+            "projectName": "Aula 4_7276f6ce"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ExemploArrayList",
+            "request": "launch",
+            "mainClass": "ExemploArrayList",
+            "projectName": "Aula 4_7276f6ce"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ExemploJOpitonPaneBotao",
+            "request": "launch",
+            "mainClass": "ExemploJOpitonPaneBotao",
+            "projectName": "Aula 4_7276f6ce"
+        }
+    ]
+}
